@@ -1,4 +1,4 @@
 Startpage
 ========
 
-### Live Demo: <a href="http://cthuluzombie.github.io">Demo</a>
+### Live Demo: <a href="david0lyons.github.io">Demo</a>
